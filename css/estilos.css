@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+body{
+    color: white;
+}
+
+.imagenfondo{
+    background-image: none;
+     width: 2000px;
+}
+
+.imagentamañofondo{
+    width: 2000px;
+}
+
+#menuderecha ul{
+    display: flex; 
+    float: right;
+}
+
+#menuderecha ul li{
+    list-style: none;
+    padding: 10px;
+}
+
+#menuderecha ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.imagenpequeña{
+    width: 200px;
+    
+}
